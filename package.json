@@ -1,0 +1,30 @@
+{
+  "name": "emagent",
+  "version": "1.0.0",
+  "description": "A lightweight CLI AI agent with tool support",
+  "main": "EMAgent.js",
+  "bin": {
+    "emagent": "./EMAgent.js"
+  },
+  "scripts": {
+    "start": "node EMAgent.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "cli",
+    "llm",
+    "tools",
+    "assistant"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skillfulelectro/emagent.git"
+  }
+}
